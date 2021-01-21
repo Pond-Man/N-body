@@ -1,3 +1,4 @@
+// Written by Briac Cordelle
 
 public class Nbody {
 	public static void main(String[] args) {		
